@@ -1,4 +1,4 @@
-# -portafolio-diseno
+# -portafolio-diseno-pareja
 Nuestro primer portafolio web
 Proyecto: Portafolio Digital de Diseño Gráfico.
 Autores: Alisson Daniela Cuastumal Cifuentes. Samuel Alejandro Coral Guerrero
