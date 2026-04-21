@@ -97,7 +97,7 @@ color: #777; background: #eee;
 }
 
 .boton-enviar {
-    background-color: var(--morado-inem);
+    background-color: var(--rojo-inem);
     color: white;
     padding: 15px;
     border: none;
