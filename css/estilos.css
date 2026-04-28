@@ -118,12 +118,12 @@ color: #777; background: #eee;
 }
 
 .enlaces a:hover {
-    color: #102bde; /* Rojo cuando pasas el mouse */
+    color: #93b7e6; /* Rojo cuando pasas el mouse */
 }
 
 /* Botón del Carrito resaltado */
 .boton-carrito {
-    background-color: #102bde; /* Rojo*/
+    background-color: #93b7e6; /* Rojo*/
     padding: 8px 18px;
     border-radius: 25px;
     border: 2px solid #ffffff;
